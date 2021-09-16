@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
     <latestVersion>3.0.0</latestVersion>
-    <latestVersionCode>41000</latestVersionCode>
+    <latestVersionCode>4100</latestVersionCode>
     <url>https://bitbucket.org/hermesspbr/mine/downloads/update.apk</url>
   </update>
 </AppUpdater>
